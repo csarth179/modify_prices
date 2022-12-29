@@ -1,8 +1,11 @@
 /redirects   https://github.com/csarth179/modify_prices/edit/main/_redirects
-
 /editor      https://script.google.com/home/projects/1i1Rewdou5J0BnI6xfS7JX5Fd3-2axz8gNF6MK9iOdR1VtdYtuwswZKRa/edit
-
-/netlify  https://app.netlify.com/sites/chopra-sales-and-service/overview
+/sites       https://app.netlify.com/sites/chopra-sales-and-service/overview
+/encode       https://www.base64encode.org
+/decode   https://www.base64decode.org
+/url    https://barcode.tec-it.com/en/MobileQRUrl
+/qrcode   https://barcode.tec-it.com/en/QRCode
+/duplicates   https://www.somacon.com/p568.php
 
 /CRANK+PIN+(VARSHA) https://barcode.tec-it.com/QRCode?data=CRANK+PIN+(VARSHA)%5ctMjQw%5ctNDUw&translate-esc=on
 
